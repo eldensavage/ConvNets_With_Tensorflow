@@ -1,4 +1,4 @@
-# Convolutional Neural Networks Implemented With Python and TensorFlow
+# Convolutional Neural Networks
 Datasets I Used:
   1. Horse and Human
   2. Cats and Dogs
